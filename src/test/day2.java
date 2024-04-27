@@ -19,4 +19,10 @@ public class day2 {
 		System.out.println("I will execute first");
 		System.out.println("Login to execute");
 	}
+	
+	public void prerequiste2()
+	{
+		System.out.println("I will execute first");
+		System.out.println("Login to execute");
+	}
 }
