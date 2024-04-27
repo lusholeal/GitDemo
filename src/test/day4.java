@@ -25,6 +25,11 @@ public class day4 {
 		System.out.println("MobileloginHome");
 		System.out.println("New changes arriving");
 		System.out.println("Downloading");
+		//To continue with the new uptade
+		System.out.println("New change here");
+		System.out.println("creating this code");
+		System.out.println("New changes freezed");
+		System.out.println("Downloading");
 	}
 	
 	@Test

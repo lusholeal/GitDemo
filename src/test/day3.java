@@ -25,6 +25,9 @@ public void befoclas()
 		System.out.println(urlname);
 		System.out.println(key);
 		
+		System.out.println("Press y button to continue");
+		System.out.println("Starting");
+		
 	}
 	@BeforeMethod
 	public void beforeevery()
