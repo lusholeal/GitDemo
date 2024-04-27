@@ -23,6 +23,8 @@ public class day4 {
 	{
 		//Appium
 		System.out.println("MobileloginHome");
+		System.out.println("New changes arriving");
+		System.out.println("Downloading");
 	}
 	
 	@Test
