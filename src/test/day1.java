@@ -13,6 +13,9 @@ public class day1 {
 	public void lastexecution()
 	{
 		System.out.println("I will execute last");
+		System.out.println("Adding a new branch");
+		System.out.println("Testing a new branch");
+		System.out.println("debuggin a new branch");
 		
 	}
 	@Test
